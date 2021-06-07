@@ -1,12 +1,13 @@
 # Simple Personal financial management system 
 [Demo Website](https://kagari0803.github.io/financial-management-by-PowerBI/)
-❌RWD
+❌RWD  
 
-🏆 win third prize in the midterm competition of 決策支援與商業智慧 class
-🏆 win second prize in the final competition of 決策支援與商業智慧 class
+🏆 win third prize in the midterm competition of 決策支援與商業智慧 class  
+🏆 win second prize in the final competition of 決策支援與商業智慧 class  
 
 ## Description
-This website is used to show the report and form. It's a simple personal financial management system, built with Google Form, Google Sheets, and Power BI reports.
+This website is used to show the report and form.  
+It's a simple personal financial management system, built with Google Form, Google Sheets, and Power BI reports.
 
 ## Status
 nearly finished

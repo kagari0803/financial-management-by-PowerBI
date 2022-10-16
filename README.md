@@ -29,5 +29,4 @@ nearly finished
 ## How to use
 1. Input accounting data on the "Recording" page
 2. See the changes and reports on the "Reports" page (I don't let the data refresh automatically, so it might not change.)  
-[See the slides](https://docs.google.com/presentation/d/e/2PACX-1vTBrpAGdekcap2dbbZyDX5fPRMXBdX0wQ3uK4UQUj42POpYLzOYIxW-9RX0xkrcSi5SVK71Vp-YI2pu/pub?start=true&loop=true&delayms=3000)  
-*I'll introduce more about this project in the future*
+[See the slides](https://docs.google.com/presentation/d/1pjnb-kGdYC5fW_l10fEIjSOBb9PIwFtvMkZmKzbtkAk/edit?usp=sharing)  
